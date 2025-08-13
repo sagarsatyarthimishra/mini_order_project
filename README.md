@@ -56,6 +56,7 @@ It demonstrates best practices such as layered architecture, RESTful APIs, inter
 ### 1. Clone the Repository
 
 git clone https://github.com/sagarsatyarthimishra/mini_order_project
+
 cd mini-order-product
 
 
@@ -162,4 +163,5 @@ mini-order-product/
 ---
 
 **Feel free to reach out if you have any questions or need
+
 
